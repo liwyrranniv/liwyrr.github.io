@@ -1,0 +1,20 @@
+body{
+    background-color: #1D1E28;
+    font-family: sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+}
+.text{
+    display: block;
+    margin-left: 890px;
+    margin-right: auto;
+    widows: 50px;
+    margin-top: -225px;
+    color: #860000;
+    text-decoration: solid;
+}
